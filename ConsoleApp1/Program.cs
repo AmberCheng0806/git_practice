@@ -13,5 +13,24 @@ namespace ConsoleApp1
             Console.WriteLine("HELLO");
             Console.ReadKey();
         }
+
+        static void Test()
+        {
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+            Console.WriteLine("World");
+
+
+            for (int i = 0; i < 10; i++)
+            {
+
+            }
+
+        }
     }
 }
