@@ -17,19 +17,6 @@ namespace ConsoleApp1
         static void Test()
         {
             Console.WriteLine("World");
-            Console.WriteLine("World");
-            Console.WriteLine("World");
-            Console.WriteLine("World");
-            Console.WriteLine("World");
-            Console.WriteLine("World");
-            Console.WriteLine("World");
-            Console.WriteLine("World");
-
-
-            for (int i = 0; i < 10; i++)
-            {
-
-            }
 
         }
     }
