@@ -16,5 +16,11 @@ namespace ConsoleApp1.Models
         {
             return true;
         }
+
+        private bool CheckAccountIsValid(string password)
+        {
+            return true;
+        }
+
     }
 }
