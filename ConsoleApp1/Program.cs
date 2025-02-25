@@ -14,10 +14,5 @@ namespace ConsoleApp1
             Console.ReadKey();
         }
 
-        static void Test()
-        {
-            Console.WriteLine("World");
-
-        }
     }
 }
